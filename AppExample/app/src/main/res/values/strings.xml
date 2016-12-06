@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="agregar_text">Agregar</string>
+    <string name="listar_text">Listar</string>
+    <string name="enviar">Enviar Correo</string>
+</resources>
